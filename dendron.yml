@@ -4,7 +4,7 @@ vaults:
         fsPath: vault
 site:
     copyAssets: true
-    assetsPrefix: dendron
+    assetsPrefix: dendron-1
     siteHierarchies:
         - dendron
         - public
@@ -18,10 +18,10 @@ site:
         - garage
     siteRootDir: docs
     logo: "docs/assets/images/logo.png"
-    siteUrl: https://oolonek.github.io/dendron/
+    siteUrl: https://kevinslin.github.io
     siteProtocol: https
     usePrettyRefs: true
-    gh_edit_repository: https://github.com/oolonek/dendron
+    gh_edit_repository: https://kevinslin.github.io/dendron-1
     gh_edit_branch: main
     title: grndstt's dendron
     author: "grndstt" 
